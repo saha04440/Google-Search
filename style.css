@@ -1,0 +1,45 @@
+/* Gmail & Images Link */
+.linkto {
+    position: absolute;
+    right: 50px;
+}
+
+.others_link {
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+.search_button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    height: 27px;
+    width: 74px;
+}
+
+h1 {
+    color: rgb(223, 32, 32);
+    font-family: 'Poppins', sans-serif;
+    font-size: 90px;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 100px;
+}
+
+#container_searchBar {
+    width: 630px;
+    height: 40px;
+    margin: auto;
+    display: block;
+}
+
+.search_button_header {
+    margin-left: 10px;
+}
+
+h5 {
+    text-align: center;
+}
